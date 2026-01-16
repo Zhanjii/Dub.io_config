@@ -1,0 +1,8 @@
+{
+    "enabled": true,
+    "activation_code": "DUBIO2024",
+    "min_app_version": "0.1.0",
+    "block_message": "This version is no longer supported. Please update to the latest version.",
+    "invalid_code_message": "Invalid activation code. Please contact support for assistance.",
+    "success_message": "Application activated successfully! Thank you."
+}
