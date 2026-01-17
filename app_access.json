@@ -1,6 +1,6 @@
 {
     "enabled": true,
-    "activation_code": "1234",
+    "activation_code_encrypted": "gAAAAABpatWCW7GfATOLRAqI0QAW9Fy97XS5eSnsuam44yVfwAX8m-DBtID6sbAED6XF18PEPK1yY5L12fHlccOTgOea_2-UDA==",
     "min_app_version": "0.1.0",
     "block_message": "This version is no longer supported. Please update to the latest version.",
     "invalid_code_message": "Invalid activation code. Please contact support for assistance.",
