@@ -1,16 +1,15 @@
 {
     "enabled": true,
-    "activation_code_encrypted": "gAAAAABpatWCW7GfATOLRAqI0QAW9Fy97XS5eSnsuam44yVfwAX8m-DBtID6sbAED6XF18PEPK1yY5L12fHlccOTgOea_2-UDA==",
-    "admin_pin_encrypted": "gAAAAABpbelPIpCrwHEGzy3AKc0kLlBESrUdEKloO1JQFIkLRy-gNA7ZGUnHhsLq6jf1ViYyWjnXcrbmFhalYVP6wrgZ7kdPdQ==",
+    "activation_code_encrypted": "gAAAAABpbfOdbK_-vSBMM8hLXuAUYlV6T9gYUsv51hFH9VUHHhTDpDQIKmUVGEj2FfImd1suqYO8nVHW0WY_88_3sXn9rzxoig==",
+    "admin_pin_encrypted": "gAAAAABpbfOdLJ03hE-p5avDA-W2e21oWpWTWE-m1tsYhntzKMgGOMt6F1lrfYxw52FidsWYGArQt9JIpEoV-du_l9aEZdlDGQ==",
     "min_app_version": "0.1.0",
     "block_message": "This version is no longer supported. Please update to the latest version.",
     "invalid_code_message": "Invalid activation code. Please contact support for assistance.",
     "success_message": "Application activated successfully! Thank you.",
-
     "error_reporting": {
         "enabled": true,
-        "sender_email_encrypted": "gAAAAABpbfGwOv_pohX8uQfjea_XAA0Sgswt5wSbIkPOtJ4YM5mulTAx1-xVvsextaoKa7QaGyAU864I5xMel9ZC7dixOh4be0a3Ac_Gf-b9kw3fA76wxxN_HsQcyyiXg4KF2Jg4AKgk",
-        "email_encrypted": "gAAAAABpbe6_sst0dRqweNZpl8DNbfJf7CXCNUL8jiszhquwpdTznbizn-JYK96GiO3CI8_iy6RboGeUQlZzYxULrWp5-KoO8Q==",
-        "smtp_password_encrypted": "gAAAAABpbfGwTf8fX_cb5P31d1036CGRpP63iUiQ7ngeZ75ftO4oZ77QGx5pv1cayTjpziKCBTeVPlWWEgDgMqYxzN2B8R079AGda4M1jOSgZTRvkAHyU4E="
+        "sender_email_encrypted": "gAAAAABpbfOdxi2afsPm6UgjI1nJS1cvLco9aU3tqOx7zISO0VWImAaVQlPezigAdYJEvN7g6zu8mognYObi4RzU5cEBcq0rdX62HoUopQqRpgZzUm4ltYPwUihNRIrU5dIALHzO5ntJ",
+        "email_encrypted": "gAAAAABpbfOdhrgub6SKNCDQUrDepLibaCO1e_aAKtPDRxwCuVGZBFKqBDAahQHpy_R9DrhRyOjrjNoiGuAlBoUwNdEwQqtTfw==",
+        "smtp_password_encrypted": "gAAAAABpbfOd8JErD_Bm9Tnyf6x48Q3oTp9CcEx29chfPIYQFgLk6XqYFTXIlpAu2LuvLu9jo7nIJCpnpnbYT2q721ixtS2fXLFB_lELepldPE-cYV4lNnQ="
     }
 }
