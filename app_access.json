@@ -1,19 +1,19 @@
 {
     "enabled": true,
-    "activation_code_encrypted": "gAAAAABpbfOdbK_-vSBMM8hLXuAUYlV6T9gYUsv51hFH9VUHHhTDpDQIKmUVGEj2FfImd1suqYO8nVHW0WY_88_3sXn9rzxoig==",
-    "admin_pin_encrypted": "gAAAAABpbfOdLJ03hE-p5avDA-W2e21oWpWTWE-m1tsYhntzKMgGOMt6F1lrfYxw52FidsWYGArQt9JIpEoV-du_l9aEZdlDGQ==",
+    "activation_code_encrypted": "gAAAAABpbrTfZuk8iYcUlhhDmwmkBXEvZL_sKN4OIy2z1ATTqCKngbZqHhe-oiQT2TAt27RtLs-o-uFsKUEw4H8jzi-7qad-AA==",
+    "admin_pin_encrypted": "gAAAAABpbrTf19XtheIYsFzRn9DYbaBhMCl-iJ17-DVcEIiyd9OTvyPzE0UYKjoH7E-icFGes_qnTrnNz1sOxhcG9NJBvjwgjQ==",
     "min_app_version": "0.1.0",
     "block_message": "This version is no longer supported. Please update to the latest version.",
     "invalid_code_message": "Invalid activation code. Please contact support for assistance.",
     "success_message": "Application activated successfully! Thank you.",
     "latest_version": "1.0.0",
-    "download_url_win_encrypted": "gAAAAABpbfVcKYr-r2etKB-z_V-6mVI6Sh4yHrcY4yV_9TA5wy_4FzBcIoGCRCMQqPVrr4Yv6TjiQUy9Tw98v9YnolGALJwNrKtf-P95ex4QiqLW29QpBkb4bv5N8Mt7c5ChmLm29uIO6DbtFQrV1x3yTP0czQ45NI3ErlQ2uwm-uEag1hU_4a8bmVku_NFAgFCn_eF2qmuo",
-    "download_url_mac_encrypted": "gAAAAABpbfVcLMEND0l7vhxIZJ4xUG9wqq2cW8JZXCZuCn5CxsvLTnb8S1KYs9eKRBuqvbhBFj7etbclWz6ZIYflLegCub5eIAcSP_atlzbK6j38vobGjZJD5J2uQlaBhT5OqEb6b3yHGoqYNYlrFvCl4QuiAATMHkuII44pRUb9Sg0PATEro884VdsLRFdvD64TrZWQ_Va3",
-    "release_notes": "Version 1.0.0 - Auto-synced from app",
+    "download_url_win_encrypted": "gAAAAABpbrTfEYVWG3QihQx39P1gYai2wR5ayWpaC8jmdtK4weqPZcxvXBrrM1Bw2y4WOa082x4WTUrzEi8gns1vjAB-OCWChWEA_UouXaHjhZIl9Zg0XYMgi_8KFyIelXmdk3hykOoUFabqnWUA9K_veHjnqczCIf8uo9zLDdtmEa8DULVI_xBEC1Z_gjv77UoLon1ojhyG",
+    "download_url_mac_encrypted": "gAAAAABpbrTft69aGvu7pEk1mt3_k9FVyvua_A_AQIor0E25jKM_ukOv23SvZT78JHNPlXDrL0-gYA5GNFR0yD14i9AdjmZ1d9Wv1ykndb5RlJxPbBFBMroKtzToy8Nqs6YpJHey7Q160_ziSTKFunEBFgRZ8zENeo14F4EN_j7mtKE09Jrcc0HqmvL84vyq3B6OTgZtN_j4",
+    "release_notes": "Version 0.2.0 - Initial release with video dubbing, auto-updates, and crash reporting",
     "error_reporting": {
         "enabled": true,
-        "sender_email_encrypted": "gAAAAABpbfOdxi2afsPm6UgjI1nJS1cvLco9aU3tqOx7zISO0VWImAaVQlPezigAdYJEvN7g6zu8mognYObi4RzU5cEBcq0rdX62HoUopQqRpgZzUm4ltYPwUihNRIrU5dIALHzO5ntJ",
-        "email_encrypted": "gAAAAABpbfOdhrgub6SKNCDQUrDepLibaCO1e_aAKtPDRxwCuVGZBFKqBDAahQHpy_R9DrhRyOjrjNoiGuAlBoUwNdEwQqtTfw==",
-        "smtp_password_encrypted": "gAAAAABpbfOd8JErD_Bm9Tnyf6x48Q3oTp9CcEx29chfPIYQFgLk6XqYFTXIlpAu2LuvLu9jo7nIJCpnpnbYT2q721ixtS2fXLFB_lELepldPE-cYV4lNnQ="
+        "sender_email_encrypted": "gAAAAABpbrTfNtZNZJsinwaPT0Z_9m-MUQ1YM1jzNzWqgqY9whluFgCFj1iX1nky9arNRiBqyrQnHhxFY0CD-RzRq2Psc88TuPv1TP-v4Dk7fS72OOeRag0jKkWq_WGDwW66bXfLs4rF",
+        "email_encrypted": "gAAAAABpbrTfuUvaeVls_Nf2tP6SVDqGUid6aU-m-IiLbzio5WCg3k1CnsCp_qS3CmSegVnGxn3oZw1qOEnlZH4WgcxkSSLYDQ==",
+        "smtp_password_encrypted": "gAAAAABpbrTfnM0siBh2pNQ35B6aW6gyFMb7L7aePEwNyie_SvY4M3BHX-FsrrUDtwmMWvbn_T1vFByyQtqRoMYJq50FIh6em2ykAlW4ndUglMixb_K7ZDk="
     }
 }
