@@ -9,7 +9,8 @@
 
     "error_reporting": {
         "enabled": true,
+        "sender_email_encrypted": "gAAAAABpbfGwOv_pohX8uQfjea_XAA0Sgswt5wSbIkPOtJ4YM5mulTAx1-xVvsextaoKa7QaGyAU864I5xMel9ZC7dixOh4be0a3Ac_Gf-b9kw3fA76wxxN_HsQcyyiXg4KF2Jg4AKgk",
         "email_encrypted": "gAAAAABpbe6_sst0dRqweNZpl8DNbfJf7CXCNUL8jiszhquwpdTznbizn-JYK96GiO3CI8_iy6RboGeUQlZzYxULrWp5-KoO8Q==",
-        "smtp_password_encrypted": "gAAAAABpbeqr7_57te5D-ATt56GL0bSrPkOq3qxXr7esCTDhEpungHiKSQDFFFoiW9gp112kZbGoSSTUgx46KA_od6TzC3XbMXs846CL7YmTctVjXWYEvk0="
+        "smtp_password_encrypted": "gAAAAABpbfGwTf8fX_cb5P31d1036CGRpP63iUiQ7ngeZ75ftO4oZ77QGx5pv1cayTjpziKCBTeVPlWWEgDgMqYxzN2B8R079AGda4M1jOSgZTRvkAHyU4E="
     }
 }
