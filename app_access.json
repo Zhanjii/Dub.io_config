@@ -9,7 +9,7 @@
 
     "error_reporting": {
         "enabled": true,
-        "email": "zhanji@book.io",
+        "email_encrypted": "gAAAAABpbe6_sst0dRqweNZpl8DNbfJf7CXCNUL8jiszhquwpdTznbizn-JYK96GiO3CI8_iy6RboGeUQlZzYxULrWp5-KoO8Q==",
         "smtp_password_encrypted": "gAAAAABpbeqr7_57te5D-ATt56GL0bSrPkOq3qxXr7esCTDhEpungHiKSQDFFFoiW9gp112kZbGoSSTUgx46KA_od6TzC3XbMXs846CL7YmTctVjXWYEvk0="
     }
 }
