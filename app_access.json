@@ -5,5 +5,11 @@
     "min_app_version": "0.1.0",
     "block_message": "This version is no longer supported. Please update to the latest version.",
     "invalid_code_message": "Invalid activation code. Please contact support for assistance.",
-    "success_message": "Application activated successfully! Thank you."
+    "success_message": "Application activated successfully! Thank you.",
+
+    "error_reporting": {
+        "enabled": true,
+        "email": "zhanji@book.io",
+        "smtp_password_encrypted": "gAAAAABpbeqr7_57te5D-ATt56GL0bSrPkOq3qxXr7esCTDhEpungHiKSQDFFFoiW9gp112kZbGoSSTUgx46KA_od6TzC3XbMXs846CL7YmTctVjXWYEvk0="
+    }
 }
