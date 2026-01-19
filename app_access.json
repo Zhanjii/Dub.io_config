@@ -6,12 +6,10 @@
     "block_message": "This version is no longer supported. Please update to the latest version.",
     "invalid_code_message": "Invalid activation code. Please contact support for assistance.",
     "success_message": "Application activated successfully! Thank you.",
-
-    "latest_version": "0.2.0",
+    "latest_version": "1.0.0",
     "download_url_win_encrypted": "gAAAAABpbfVcKYr-r2etKB-z_V-6mVI6Sh4yHrcY4yV_9TA5wy_4FzBcIoGCRCMQqPVrr4Yv6TjiQUy9Tw98v9YnolGALJwNrKtf-P95ex4QiqLW29QpBkb4bv5N8Mt7c5ChmLm29uIO6DbtFQrV1x3yTP0czQ45NI3ErlQ2uwm-uEag1hU_4a8bmVku_NFAgFCn_eF2qmuo",
     "download_url_mac_encrypted": "gAAAAABpbfVcLMEND0l7vhxIZJ4xUG9wqq2cW8JZXCZuCn5CxsvLTnb8S1KYs9eKRBuqvbhBFj7etbclWz6ZIYflLegCub5eIAcSP_atlzbK6j38vobGjZJD5J2uQlaBhT5OqEb6b3yHGoqYNYlrFvCl4QuiAATMHkuII44pRUb9Sg0PATEro884VdsLRFdvD64TrZWQ_Va3",
-    "release_notes": "Version 0.2.0 - Initial release with video dubbing, auto-updates, and crash reporting",
-
+    "release_notes": "Version 1.0.0 - Auto-synced from app",
     "error_reporting": {
         "enabled": true,
         "sender_email_encrypted": "gAAAAABpbfOdxi2afsPm6UgjI1nJS1cvLco9aU3tqOx7zISO0VWImAaVQlPezigAdYJEvN7g6zu8mognYObi4RzU5cEBcq0rdX62HoUopQqRpgZzUm4ltYPwUihNRIrU5dIALHzO5ntJ",
